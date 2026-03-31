@@ -1,0 +1,17 @@
+# Determinants of NPAs in Indian Banks
+**Tool:** R (Panel Data Analysis)
+**Period:** 2014–2023 | 6 Banks | 10 Years
+
+### Study Statement
+Panel econometric analysis to identify key determinants of 
+Non-Performing Assets (NPAs) in Indian Banks over 2014–2023.
+
+### Methodology
+- Pooled OLS
+- Fixed Effects Model
+- Random Effects Model
+- Hausman Test for model selection
+- Diagnostic tests and robust standard error correction
+
+### Key Findings
+- ROA, credit growth, inflation and GDP growth are key determinants of NPAs
